@@ -150,7 +150,7 @@ a {
 /*--------------------------------------------HERO image ABOUT */
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("/.assets/images/una-pizzeria-2.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("./assets/images/una-pizzeria-2.jpg");
   height: 110vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -217,7 +217,7 @@ a {
 
 .hero-image4 {
   
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("/.assets/images/pizzamarghe.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("./assets/images/pizzamarghe.jpg");
   height: 110vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -258,7 +258,7 @@ a {
 
 .hero-image1 {
   
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("/.assets/images/dough.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("./assets/images/dough.jpg");
   height: 110vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -318,7 +318,7 @@ button[type="submit"] {
 
 .hero-image3 {
   
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url("/.assets/images/pizza3.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url("./assets/images/pizza3.jpg");
   height: 110vh;
   background-position: center;
   background-repeat: no-repeat;

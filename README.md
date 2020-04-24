@@ -1,7 +1,7 @@
-#TIPO 2 PIZZERIA
+# TIPO 2 PIZZERIA
 This website as a project for a Neapolitan Pizzeria builded to show the contents as informations about the restaurant.
 
-#UX
+# UX
 The purpose of this project is to create a simple, professional and elegant website for the restaurant by showing pictures of the products.
 Guests Questions:
 - "Where I can find the contact details and the location of the pizzeria?"
@@ -10,8 +10,11 @@ Guests Questions:
 - "Can I hire the venue for my private party?"
 - "Where I can find the social links to tag them in my pictures?"
 
+# Live Demo 
+A live demo of the website can be found here: https://mion93.github.io/Milestone-Project/
 
-#Features
+
+# Features
 - NAVBAR : Fixed on top of every page that changes into a "hamburger" mode in mobile version. 
 - ABOUT/MAIN : Includes Hero Image with "Book Your Table" Button that allows guest to go to OPENTABLE Website, Biography, Products images and Magazines Reviews.
 - MENU : Includes the restaurant Menu' image that is downloadable with its DOWNLOAD Button.
@@ -19,7 +22,7 @@ Guests Questions:
 - CONTACT US: Includes Hero Image, Iframe Google Map that shows the location, Bookings and Reservation and Private Hire Section.
 - FOOTER: Includes Location, Opening Hours and Social Links. 
 
-#Technologies Used
+# Technologies Used
 - HTML Language Used to present and structure the content.
 - CSS3 Language Used to style the contents.
 - BOOTSTRAP3 Used to build a responsive mobile-friendly website.
@@ -27,13 +30,13 @@ Guests Questions:
 - CHROME DEV TOOLS Used to check if the website is responsive.
 
 
-#Testing
+# Testing
 - Mobile friendly testing: https://search.google.com/test/mobile-friendly?id=9u7AgYxD8iV3j9W4gzTYjQ
 - HTML Validator Test: https://validator.w3.org/
 - CSS Validator Test: https://jigsaw.w3.org/css-validator/
 
 
-#Deployment
+# Deployment
 
 For the deployment of the website I used:
 
@@ -43,7 +46,7 @@ For the deployment of the website I used:
 - Select Master Branch from the Source dropdown.
 - The GitHub Pages section changed to inform me that my site was ready to be published.
 
-#Credits/Media
+# Credits/Media
 - https://allthefreestock.com For all the images provided.
 - https://getbootstrap.com  Used for the layout/Grid system.
 - https://w3schools.com Used to solve issues.

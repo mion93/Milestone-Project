@@ -55,7 +55,7 @@ a {
   text-decoration: none;
 }
 
-/* menu */
+/*--------------- menu */
 
 .header .menu {
   clear: both;
@@ -63,7 +63,6 @@ a {
   transition: max-height .2s ease-out;
 }
 
-/* MENU ICON */
 
 .header .menu-icon {
   cursor: pointer;
@@ -147,11 +146,11 @@ a {
     display: none;
   }
 }
-/*--------------------------------------------HERO image ABOUT */
+/*-------------------------------------------- ABOUT */
 
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../images/una-pizzeria-2.jpg");
-  height: 110vh;
+  height: 115vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -355,12 +354,6 @@ button[type="submit"] {
         height: 80% !important;
     }
 
-/* .gbox{
-    width:960px;
-    height:300px;
-    margin: auto;
-    text-align: center;
-    } */
 
 iframe{
         width: 90%;

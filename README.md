@@ -8,7 +8,7 @@ Guests Questions:
 - "I would like to see the menu' and download it."
 - "I would like to know if they are hiring staff."
 - "Can I hire the venue for my private party?"
-- "Where I can find the social links to tag them in my pictures?"
+- "Where I can find the social links to tag TIPO 2 in my pictures?"
 
 # Live Demo 
 A live demo of the website can be found here: https://mion93.github.io/Milestone-Project/
@@ -21,6 +21,12 @@ A live demo of the website can be found here: https://mion93.github.io/Milestone
 - WORK WITH US: Includes Hero Image, Application Form with CV file that can be attached.
 - CONTACT US: Includes Hero Image, Iframe Google Map that shows the location, Bookings and Reservation and Private Hire Section.
 - FOOTER: Includes Location, Opening Hours and Social Links. 
+
+# Future Features
+- Social Media Posts will be implemented.
+- Newsletter for Customers with offers.
+- Take Away Orders/Buying product section. 
+
 
 # Technologies Used
 - HTML Language Used to present and structure the content.
